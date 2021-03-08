@@ -1,9 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 2, "title": "deneme-db-eklentisi", "autohor": "hakkisagdic"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+  "new-endpoint": [
+    {"id":1, "kimin":"benim", "servisi":"benim", "buuuuuuu":"benim"},
+    {"id":2, "kimin":"mertin", "servisi":"mertin-mutfağı", "buuuuuuu":"mertin" }
+  ]
 }
